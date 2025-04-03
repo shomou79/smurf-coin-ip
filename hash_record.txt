@@ -1,0 +1,11 @@
+Smurf Coin - Intellectual Property Proof
+----------------------------------------
+
+Owner: Shorash Moustafa
+Date of Birth: 17 November 1978
+Declaration Date: 3 April 2025
+
+Original Document: Smurf_Coin_IP_Declaration_Shorash_Moustafa_Updated.pdf
+SHA256 Hash: 9b608f6cfaa64f29cb92bae0f84acf58a73d004ec6fb278cbf2339e8e0ab0cc4
+
+This hash proves the existence and integrity of the original document. Any alteration to the file will result in a different hash.
